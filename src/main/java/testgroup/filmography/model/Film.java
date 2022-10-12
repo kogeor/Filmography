@@ -1,6 +1,7 @@
 package testgroup.filmography.model;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
+
 
 @Entity
 @Table(name = "films")

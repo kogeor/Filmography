@@ -1,3 +1,4 @@
+CREATE schema test;
 USE test;
 
 DROP TABLE IF EXISTS films;
